@@ -1,11 +1,8 @@
 ---
-layout: default
-title: Welcome
+layout: home
+title: Welcome to My Site
 ---
 
-# Hello from GitHub Pages!
+# Hello from GitHub Pages 🎉
 
-This site uses the *minima* theme.
-
-- Here's a list
-- Of cool things
+This is a test site using the *minima* theme.
